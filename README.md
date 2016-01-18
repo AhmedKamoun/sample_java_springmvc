@@ -1,0 +1,1 @@
+# sample webapp based on Spring MVC + Spring Security + Hibernate + MYSQL
